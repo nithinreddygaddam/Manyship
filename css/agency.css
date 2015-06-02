@@ -8,7 +8,6 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
 .vidwrap {
     position: relative;
     padding-bottom: 56.21%;
@@ -365,6 +364,10 @@ section h2.section-heading {
     margin-bottom: 100px;
     font-size: 40px;
 }
+
+{
+    margin-bottom: 100px;
+    }
 
 section h3.section-subheading {
     margin-bottom: 75px;
@@ -1033,4 +1036,25 @@ body {
   margin-top: 10px;
 }
 
+.form-group{
+    width: 50%;
+}
+.estimate{
+    display: inline;
+}
+
+#est1{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.estheader{
+    color: white;
+    padding-bottom: 10px;
+}
+.estheader2{
+ color: white;
+ text-transform: lowercase;
+ padding-bottom: 10px;
+}
 
